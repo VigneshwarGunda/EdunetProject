@@ -18,3 +18,20 @@ git remote add origin(GitHub URL):
 
 git push(GitHub URL)
 -->used for push all the committed project data into GitHub remote repository...
+
+First time:
+============
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/VigneshwarGunda/test.git
+git push -u origin main
+
+
+Second time:
+============
+git status
+git add .
+git commit -m "added new line"
+git push
