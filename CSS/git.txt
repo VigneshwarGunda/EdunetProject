@@ -1,0 +1,20 @@
+git basic commands:
+===================
+git init
+-->used for to initialize git local repository
+
+git status
+-->used for to check the status of the project
+
+git add
+-->used for to add existing projects into local repository
+
+git commit -m "first commit"
+-->used for to commit from untracked files into tracked files,
+now these files are ready to send in remote repository...
+
+git remote add origin(GitHub URL):
+-->used for add local repository into remote repository
+
+git push(GitHub URL)
+-->used for push all the committed project data into GitHub remote repository...
